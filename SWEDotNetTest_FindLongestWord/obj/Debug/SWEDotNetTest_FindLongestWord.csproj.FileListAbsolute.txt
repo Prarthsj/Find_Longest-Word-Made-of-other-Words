@@ -1,0 +1,5 @@
+c:\users\prart\onedrive\documents\visual studio 2017\Projects\SWEDotNetTest_FindLongestWord\SWEDotNetTest_FindLongestWord\bin\Debug\SWEDotNetTest_FindLongestWord.exe.config
+c:\users\prart\onedrive\documents\visual studio 2017\Projects\SWEDotNetTest_FindLongestWord\SWEDotNetTest_FindLongestWord\bin\Debug\SWEDotNetTest_FindLongestWord.exe
+c:\users\prart\onedrive\documents\visual studio 2017\Projects\SWEDotNetTest_FindLongestWord\SWEDotNetTest_FindLongestWord\bin\Debug\SWEDotNetTest_FindLongestWord.pdb
+c:\users\prart\onedrive\documents\visual studio 2017\Projects\SWEDotNetTest_FindLongestWord\SWEDotNetTest_FindLongestWord\obj\Debug\SWEDotNetTest_FindLongestWord.exe
+c:\users\prart\onedrive\documents\visual studio 2017\Projects\SWEDotNetTest_FindLongestWord\SWEDotNetTest_FindLongestWord\obj\Debug\SWEDotNetTest_FindLongestWord.pdb
